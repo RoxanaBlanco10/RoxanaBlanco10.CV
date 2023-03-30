@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+       <html lang="es">
+       <head>
+       <meta       charset="UTF-8">
+
+       </head>
+       <body> </li>
+
 <img 2023-02-28-21-16-18-670.jpg
 crs="https://randomuser.me./api/portrais/men"/alt=foto de perfil"
 
@@ -21,13 +29,14 @@ crs="https://randomuser.me./api/portrais/men"/alt=foto de perfil"
 
 <h><span>Correo: </span>rbt@live.com.ar</li>
 <h><span>
-Nacimiento:</span>09/01/1977</li>
+Nacimiento:</span>09/01/1977.</li>
 <ul>
 <h><span>Dirección:</span> Barrio 2 de Abril, manzana54, casa7, sector"F".</li>
 <li><abarca>Teléfono:</abarca> (3704)707953</li>
 <ul>
 </conjunto de campos>
-</conjunto de campos><leyenda>FORMACIÓN ACADÉMICA</leyenda>
+</conjunto de campos>
+       <leyenda>FORMACIÓN ACADÉMICA</leyenda>
 <ul>
 <li><span> Secundario Completo:</span> EPNM N°24. 2 de Abril.
 <li><span> Carrera:</span>
